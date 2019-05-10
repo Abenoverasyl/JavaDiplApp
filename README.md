@@ -1,4 +1,4 @@
-# JavaDiplApp
+# Computer modeling
  Computer modeling determine the solutions of the equation of integer arguments.
 
 This app solve mathematical equations
